@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm GANGIREDDY CHARAN DEEP REDDY</h1>
 <h3 align="center">Java Full Stack Developer | Data Analytics | Building intelligent systems and the apps that ship them</h3>
 
-<p align="center">
-  <img src="<img width="398" height="469" alt="professional profile puc" src="https://github.com/user-attachments/assets/dc934f98-015e-4fe9-bf72-11675d0075da" />
-" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gangireddy-charan-deep-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
