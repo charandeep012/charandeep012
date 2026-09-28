@@ -27,7 +27,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -36,17 +35,15 @@
 
 <p align="left"><b>Full Stack</b></p>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
 <p align="left"><b>Tools</b></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
@@ -67,16 +64,22 @@ Real-Time Sign Language Detection System <br/> <img src="https://img.shields.io/
 
 <br/>
 
-Netflix-Style Recommendation Engine <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+ Keystone – Service Request Management System <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
 
-Built a hybrid recommendation system combining collaborative filtering and cosine similarity scoring to generate personalized recommendations at scale across large user-interaction datasets using Apache Spark.
-Applied NLP-based text similarity on item metadata to improve cold-start accuracy, evaluating recommendation quality with precision@k and recall@k.
+▸	Built a web application where customers can create service requests and track their status. 
+▸	Added separate dashboards for Customers, Managers, Technicians, and Dispatchers with role-based access.
+▸	Implemented a workflow where managers assign technicians, and technicians update requests from Assigned → In Progress → Completed.
+▸	Added features for request cancellation, viewing request details, and tracking technician assignments
+
 <br/>
 
-Aavrti-Svani Smart Detection System <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+Ground Sentinal: Smart Detection, Safer Worksites <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
 
-Developed a real-time IoT wildlife detection system using YOLO object detection with OpenCV preprocessing, achieving 90%+ accuracy; evaluated using F1-score and precision-recall tradeoffs.
-Deployed edge AI inference on Raspberry Pi for low-latency, on-device processing without cloud dependency, fine-tuning detection thresholds to minimize false positives in live environments.
+▸	Developed a Bluetooth-controlled robotic vehicle to detect hazardous metallic debris such as sharp metal fragments, nails, screws, and wires at construction sites.
+▸	Integrated Arduino UNO, metal detector sensor, L298N motor driver, DC motors, and buzzer for real-time hazard detection and alerting.
+▸	Implemented an automatic safety mechanism to stop the vehicle and trigger an audible alert when metallic objects are detected.
+▸	Achieved 4–6 cm metal detection depth and 5–10 m Bluetooth communication range during prototype testing.
+
 <br/>
 
 ### 🤝 Connect With Me
