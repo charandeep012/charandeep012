@@ -57,27 +57,27 @@
 
 Real-Time Sign Language Detection System <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 
-▸	Developed a real-time sign language recognition system that converts hand gestures into readable text using a webcam..
-▸	Used MediaPipe to detect hand and body movements from live video.
-▸	Trained a 3D CNN model to recognize different sign language gestures based on their movement.
+▸	Developed a real-time sign language recognition system that converts hand gestures into readable text using a webcam.<br/>
+▸	Used MediaPipe to detect hand and body movements from live video.<br/>
+▸	Trained a 3D CNN model to recognize different sign language gestures based on their movement.<br/>
 ▸	Designed a low-cost solution that works without special hardware such as sensor gloves
 
 <br/>
 
  Keystone – Service Request Management System <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
 
-▸	Built a web application where customers can create service requests and track their status. 
-▸	Added separate dashboards for Customers, Managers, Technicians, and Dispatchers with role-based access.
-▸	Implemented a workflow where managers assign technicians, and technicians update requests from Assigned → In Progress → Completed.
+▸	Built a web application where customers can create service requests and track their status. <br/>
+▸	Added separate dashboards for Customers, Managers, Technicians, and Dispatchers with role-based access.<br/>
+▸	Implemented a workflow where managers assign technicians, and technicians update requests from Assigned → In Progress → Completed.<br/>
 ▸	Added features for request cancellation, viewing request details, and tracking technician assignments
 
 <br/>
 
 Ground Sentinal: Smart Detection, Safer Worksites <br/> <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/Arduino_IDE-008184?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"><img src="https://img.shields.io/badge/L298N_Motor_Driver-FF6F00?style=for-the-badge&logo=microchip&logoColor=white">
 
-▸	Developed a Bluetooth-controlled robotic vehicle to detect hazardous metallic debris such as sharp metal fragments, nails, screws, and wires at construction sites.
-▸	Integrated Arduino UNO, metal detector sensor, L298N motor driver, DC motors, and buzzer for real-time hazard detection and alerting.
-▸	Implemented an automatic safety mechanism to stop the vehicle and trigger an audible alert when metallic objects are detected.
+▸	Developed a Bluetooth-controlled robotic vehicle to detect hazardous metallic debris such as sharp metal fragments, nails, screws, and wires at construction sites.<br/>
+▸	Integrated Arduino UNO, metal detector sensor, L298N motor driver, DC motors, and buzzer for real-time hazard detection and alerting.<br/>
+▸	Implemented an automatic safety mechanism to stop the vehicle and trigger an audible alert when metallic objects are detected.<br/>
 ▸	Achieved 4–6 cm metal detection depth and 5–10 m Bluetooth communication range during prototype testing.
 
 <br/>
