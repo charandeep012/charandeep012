@@ -13,8 +13,8 @@
 
 ### 🚀 About Me
 - 🔭 I'm currently working on **AI/ML projects** and **full stack web apps**
-- 🌱 I'm currently learning **[add: e.g. LLMs, MLOps, Deep Learning]**
-- 💬 Ask me about **Machine Learning, Java, React,Springboot**
+- 🌱 I'm currently learning **[ e.g. LLMs, MLOps, Deep Learning]**
+- 💬 Ask me about ** Java, React,Springboot,Machine Learning**
 - 🧩 I like building things end-to-end — from model/backend to a working UI
 - 📫 Reach me at **charandeep012@gmail.com**
 - ⚡ Fun fact: **I believe the best way to learn a concept is to build something with it**
